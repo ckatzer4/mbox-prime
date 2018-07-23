@@ -25,9 +25,8 @@ Generally does a great job with plain/text, quoted-printable, and multipart
 messages.
 
 The following could use improvement:
-[ ] base64 encoded emails mixed with plain text - base64 is all-or-nothing
-[ ] user interface isn't quite colorful enough
-[ ] Both panes could use scrollbar indicators
-[ ] support reading compressed files
-
+- base64 encoded emails mixed with plain text - base64 is all-or-nothing
+- user interface isn't quite colorful enough
+- Both panes could use scrollbar indicators
+- support reading compressed files
 
